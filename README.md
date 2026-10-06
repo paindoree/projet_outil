@@ -15,4 +15,3 @@ docs/	Documentation
 refactor/	Réorganisation du code
 test/	Ajout de tests
 Test push direct sur main 
-Test push direct sur main 
