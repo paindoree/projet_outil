@@ -1,8 +1,14 @@
 # projet_outil
 Ce projet existe
- ## Stratégie de branchement
+
+
+### Stratégie de branchement
+
  On choisi githubflow parce que c'Est plus simple pour les petits projets
+
+ 
 ### Format des branches
+
 feature/	Nouvelle fonctionnalité
 fix/	Correction de bug ou crash
 docs/	Documentation
