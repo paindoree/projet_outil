@@ -14,3 +14,5 @@ fix/	Correction de bug ou crash
 docs/	Documentation
 refactor/	Réorganisation du code
 test/	Ajout de tests
+
+Changement
